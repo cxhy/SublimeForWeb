@@ -1,0 +1,18 @@
+
+{
+	// Path to google chrome
+	"chrome_path": {
+	    "osx": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+	    "windows": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+	    //"windows_x64": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+	    //D:\\Program Files (x86)\\debugChrome\\Google Chrome v51.0.2704.63\\Chrome\\Chrome.exe
+	    "windows_x64": "D:\\Program Files (x86)\\debugChrome\\Google Chrome v51.0.2704.63\\Chrome\\Chrome.exe",
+	    "linux": "/usr/bin/google-chrome"
+	},
+	"breaks":
+	{
+		"d:\\work\\vscode\\零基础javascript编码（五）\\task.js":
+		{
+		}
+	}
+}

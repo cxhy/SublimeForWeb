@@ -6,8 +6,19 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Better Completion",
+		"BracketHighlighter",
 		"ConvertToUTF8",
+		"CSScomb",
 		"DocBlockr",
-		"Package Control"
+		"Emmet",
+		"GitGutter",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"Package Control",
+		"SideBarEnhancements",
+		"TrailingSpaces",
+		"Web Inspector"
 	]
 }
