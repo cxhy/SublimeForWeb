@@ -1,5 +1,6 @@
 {
 	"font_size": 11,
+	"trim_trailing_white_space_on_save": true,
 	"ignored_packages":
 	[
 		"Vintage"
