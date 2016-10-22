@@ -1,8 +1,14 @@
 {
 	"font_size": 11,
-	"trim_trailing_white_space_on_save": true,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"md":
+	{
+		"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+	},
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
